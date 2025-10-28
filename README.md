@@ -1,6 +1,5 @@
 # Topic: Deep Learning for Automated Thyroid Nodule Delineation
-# Streamlit App Link: https://thyro-ai-ap.streamlit.app/
-
+# Streamlit App Link: https://deep-learning-capstone-dep-spg.streamlit.app/
 This repository contains the project on automated thyroid nodule segmentation using deep learning. The project develops, trains, and compares three state-of-the-art architectures (U-Net, SegNet, and Residual U-Net) to build a robust decision-support system.
 
 # 1. Project Overview & Problem Statement
